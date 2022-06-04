@@ -4,7 +4,7 @@
  *
  * Return: 0 (success)
 */
-int main()
+int main(void)
 {
 	char ch = 'a';
 	while (ch <= 'z')
