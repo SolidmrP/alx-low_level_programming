@@ -1,1 +1,1 @@
-int putchar (int char)
+int putchar (int i);
