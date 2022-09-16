@@ -2,7 +2,7 @@
 
 /**
  * * print_line - a function that draws a straight line
- *  *@n: input number of lines to print
+ *  *@n: input number of lines to print '_'
  *   *Return: a straight line
  */
 void print_line(int n)
