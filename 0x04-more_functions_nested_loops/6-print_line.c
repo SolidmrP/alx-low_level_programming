@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_line - a function that draws a straight line
- * @n: input number of lines to print
- * Return: a straight line
+ * * print_line - a function that draws a straight line
+ *  *@n: input number of lines to print
+ *   *Return: a straight line
  */
 void print_line(int n)
 {
