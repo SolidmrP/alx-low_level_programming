@@ -41,7 +41,7 @@ char *_strdup(char *str)
 	{
 		if (ptr == NULL)
 		{
-			return (NULL;)
+			return (NULL);
 		}
 		ptr[x] = str[x];
 		x++;
